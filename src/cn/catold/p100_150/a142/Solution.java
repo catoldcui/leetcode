@@ -1,6 +1,7 @@
 package cn.catold.p100_150.a142;
 
 import cn.catold.util.BaseSolution;
+import cn.catold.util.ListNode;
 
 /**
  * Created by catold on 20/01/2017.
